@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liwuzhao.kuku@gmail.com)](mailto:liwuzhao.kuku@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-liwuzhao.kuku@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liwuzhao.kuku@gmail.com)](mailto:liwuzhao.kuku@gmail.com)
 
 I am Kuku Li from China.
 
