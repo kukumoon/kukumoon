@@ -5,10 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-liwuzhao.kuku@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liwuzhao.kuku@gmail.com)](mailto:liwuzhao.kuku@gmail.com)
 
 I am Kuku Li from China.
-
 Talk to me about
-- Front-end development using **React Vue Javascript and little Typescript**
-- Backend development using **Koa Express Nest.js**
+- Front-end development using **React、Vue、Javascript、Typescript**
+- Backend development using **Koa、Express、Nest.js**
 - Creating scalable cloud architecture using **AWS Amplify**
 - 🌍 My Homepage: [Kuku Planet](https://kuku.lol)
 - 🎯 Weibo: [Weibo](https://weibo.com/571775581)
