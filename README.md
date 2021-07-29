@@ -8,7 +8,7 @@ I am Kuku Li from China.
 Talk to me about
 - Front-end development using **React、Vue、Javascript、Typescript**
 - Backend development using **Koa、Express、Nest.js**
-- Creating scalable cloud architecture using **AWS Amplify**
+- Creating scalable cloud architecture using **AWS Service**
 - 🌍 My Homepage: [Kuku Planet](https://kuku.lol)
 - 🎯 Weibo: [Weibo](https://weibo.com/571775581)
 
